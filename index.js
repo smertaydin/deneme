@@ -15,7 +15,7 @@ exports.handler = async (event, context) => {
 			output: output
 		}),
 	};
-	console.log("Result:", JSON.stringify(response));
+	console.log("Resultante:", JSON.stringify(response));
 
 	return response;
 };
