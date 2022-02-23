@@ -141,7 +141,7 @@ Response Body
 }
 ```
 
-<img src="./11_13_TOGGETHER.jpg" width="200">
+<img src="11_13_TOGGETHER.jpg" width="200">
 
 (1) `currentLoyaltyLevelOverview.levelNumber`
 
